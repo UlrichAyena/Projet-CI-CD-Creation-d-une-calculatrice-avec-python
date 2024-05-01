@@ -1,5 +1,5 @@
 """
-La bibliothèque calc offre la possibilité d'effectuer des opérations de calcul de base entre deux nombres réels.
+La bibliothèque calculatrice offre la possibilité d'effectuer des opérations de calcul de base entre deux nombres réels.
 """
 
 def addition(arg1,arg2):
